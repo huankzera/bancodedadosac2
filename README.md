@@ -13,3 +13,6 @@ nacionalidade é a nacionalidade do produto (pode ser nulo).
 Inserindo cinco produtos na tabela, com valores específicos para cada campo, incluindo id_produto, nome, preço, estoque, perecível, marca e nacionalidade.
 
 Verificando se os dados foram inseridos corretamente ao selecionar todos os registros da tabela "Produtos".
+
+
+https://prnt.sc/hBeM7m5wxSFB
