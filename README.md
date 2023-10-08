@@ -16,3 +16,6 @@ Verificando se os dados foram inseridos corretamente ao selecionar todos os regi
 
 
 https://prnt.sc/hBeM7m5wxSFB
+
+
+animais.sql - https://prnt.sc/9CDc_jDXVf4l
